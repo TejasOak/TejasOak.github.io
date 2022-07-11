@@ -100,10 +100,10 @@ input, select, textarea {
 
 	body {
 		background-color: #3e1e70;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #e6c11e 30%, #3e1e70 70%);
-		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg,   #e6c11e 30%,  #3e1e70 70%);
-		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg      #e6c11e 30%, #3e1e70 70%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg,    #e6c11e 30%, #3e1e70 70%);
+		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #4b6cb7 20%, #182848 80%);
+		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg,   #4b6cb7 20%, #182848 80%);
+		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg  ,     #4b6cb7 20%, #182848 80%);
+		background-image: url("images/overlay.png"), linear-gradient(45deg,    #4b6cb7 20%, #182848 80%);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -3554,10 +3554,10 @@ input, select, textarea {
 
 		#main header.major h2:after {
 			background-color: #dddddd;
-			background-image: -moz-linear-gradient(90deg,  #e6c11e , #3e1e70, #08e3f3);
-			background-image: -webkit-linear-gradient(90deg, #e6c11e , #3e1e70,  #08e3f3);
-			background-image: -ms-linear-gradient(90deg, #e6c11e , #3e1e70, #08e3f3);
-			background-image: linear-gradient(90deg, #e6c11e , #3e1e70,  #08e3f3);
+			background-image: -moz-linear-gradient(90deg,  #4b6cb7, #182848, #f35e08);
+			background-image: -webkit-linear-gradient(90deg,#4b6cb7, #182848,  #f35e08);
+			background-image: -ms-linear-gradient(90deg,#4b6cb7, #182848, #f35e08);
+			background-image: linear-gradient(90deg, #4b6cb7, #182848,  #f35e08);
 		}
 
 		#main table tbody tr {
