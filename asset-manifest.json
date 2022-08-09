@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f0673854.css",
-    "main.js": "/static/js/main.95c76284.js",
+    "main.css": "/static/css/main.8ea96d04.css",
+    "main.js": "/static/js/main.6a63891c.js",
     "static/js/27.f0c61137.chunk.js": "/static/js/27.f0c61137.chunk.js",
     "static/media/supra17.jpg": "/static/media/supra17.1906aa9f5ee985505b0f.jpg",
     "static/media/bee66.jpg": "/static/media/bee66.35e79d888a873453b9d1.jpg",
@@ -17,7 +17,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.f0673854.css",
-    "static/js/main.95c76284.js"
+    "static/css/main.8ea96d04.css",
+    "static/js/main.6a63891c.js"
   ]
 }
