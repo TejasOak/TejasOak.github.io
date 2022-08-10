@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d7de5067.css",
-    "main.js": "/static/js/main.c999497d.js",
+    "main.js": "/static/js/main.5f4de928.js",
     "static/js/27.f0c61137.chunk.js": "/static/js/27.f0c61137.chunk.js",
     "static/media/supra17.jpg": "/static/media/supra17.1906aa9f5ee985505b0f.jpg",
     "static/media/bee66.jpg": "/static/media/bee66.35e79d888a873453b9d1.jpg",
@@ -19,6 +19,6 @@
   },
   "entrypoints": [
     "static/css/main.d7de5067.css",
-    "static/js/main.c999497d.js"
+    "static/js/main.5f4de928.js"
   ]
 }
