@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.d7de5067.css",
-    "main.js": "/static/js/main.5f4de928.js",
+    "main.css": "/static/css/main.ca24a037.css",
+    "main.js": "/static/js/main.997dd45f.js",
     "static/js/27.f0c61137.chunk.js": "/static/js/27.f0c61137.chunk.js",
     "static/media/supra17.jpg": "/static/media/supra17.1906aa9f5ee985505b0f.jpg",
     "static/media/bee66.jpg": "/static/media/bee66.35e79d888a873453b9d1.jpg",
     "static/media/TSO_DP2.jpg": "/static/media/TSO_DP2.5784563796fba66aca29.jpg",
+    "static/media/EA_phot.gif": "/static/media/EA_phot.b8e1cb2d300836408567.gif",
     "static/media/Oswald-MediumItalic.ttf": "/static/media/Oswald-MediumItalic.b752ca1e8173b39b9d53.ttf",
     "static/media/Lato-BoldItalic.ttf": "/static/media/Lato-BoldItalic.fd32b4dea61508c37b78.ttf",
     "static/media/Lato-Italic.ttf": "/static/media/Lato-Italic.a9f3ee269217f44df65f.ttf",
     "static/media/Lato-Regular.ttf": "/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
     "static/media/Oswald-Light.ttf": "/static/media/Oswald-Light.053299f7e6177eec7003.ttf",
     "static/media/Gclust.JPG": "/static/media/Gclust.b72070a2f11f20be62fb.JPG",
+    "static/media/gif7.png": "/static/media/gif7.7d7134440a8b9d3d4551.png",
     "static/media/MBS.JPG": "/static/media/MBS.6759d95f61fe62e6ec90.JPG",
     "static/media/InPrep.jpg": "/static/media/InPrep.227c1f11d13827e4e65a.jpg",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.d7de5067.css",
-    "static/js/main.5f4de928.js"
+    "static/css/main.ca24a037.css",
+    "static/js/main.997dd45f.js"
   ]
 }
